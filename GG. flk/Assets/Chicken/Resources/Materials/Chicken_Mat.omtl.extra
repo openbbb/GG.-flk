@@ -1,0 +1,52 @@
+[
+  {
+    "guid": {
+      "a": "acc0ca76-8d5b-0fec-34f4-eebbc31fe98c",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Chicken_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7291510107156791298",
+    "skinObjGuid": "Guid(4959801908473639408, 9251005788288184464)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "d3f35021-f5bc-6122-b7fa-a09d79d659d5"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "_MRAOTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RimHighlightTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_ThinFilmTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RadianceTexture",
+        "guid": "00000000-0000-0000-0000-000000000800"
+      }
+    ]
+  }
+]

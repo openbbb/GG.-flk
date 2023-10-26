@@ -1,0 +1,34 @@
+[
+  {
+    "guid": {
+      "a": "b3dd35fa-8589-7112-697d-ba1d1fc64589",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "Chicken_Model",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7291510107156791298",
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "materialsGUIDs": [],
+    "meshGUIDs": [
+      "9d8fb85c-31b6-af1f-55d9-dec1e9f42110",
+      "b14819b5-609a-75f7-3f8f-9394c155fe16",
+      "ff75632a-1add-7bca-2f17-e07f3bd71a89",
+      "62ad975d-3492-3616-a3d3-4beec02e8c90",
+      "94bedb88-805b-d8f6-467f-93d0aa222e7b",
+      "64621c58-f48e-9e09-2ae2-9d62354213c4",
+      "f83c09cb-666b-06c5-30b5-b00aa96f4451",
+      "5c92b8dd-ebf1-eb19-2dfb-1368f733ac26"
+    ],
+    "animazGUIDs": []
+  }
+]

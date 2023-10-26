@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "c6e0a360-0a54-477e-41dc-709dcfcfbf67",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Chicken_Albedo",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7291510107156791298",
+    "compressionType": 1,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

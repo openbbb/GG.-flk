@@ -1,0 +1,89 @@
+[
+  {
+    "guid": {
+      "a": "86e05189-3530-4ba5-2acc-30d316f36462",
+      "b": ""
+    },
+    "extraType": "ResItemPrefab",
+    "name": "Punch Hole",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Prefab",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "data": [
+      {
+        "guid": {
+          "a": "141f4172-5f0a-1be9-1115-5b47e98721ce",
+          "b": ""
+        },
+        "objGuid": "Guid(4744926393322170952, 5401928251225544356)",
+        "extraType": "Entity",
+        "name": "Punch Hole",
+        "rttiType": "Entity",
+        "version": "0.1.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": true,
+        "type": "none",
+        "createdEffectNodeKey": "effect_node_post_effect"
+      },
+      {
+        "guid": {
+          "a": "7d793665-1db0-f57c-11b8-cb4003b134b3",
+          "b": ""
+        },
+        "objGuid": "Guid(4985996697517439943, 14168094840053803700)",
+        "extraType": "Transform",
+        "name": "Transform",
+        "rttiType": "Transform",
+        "version": "0.1.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": false,
+        "editable": true,
+        "eulerAngle": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "guid": {
+          "a": "a8188f00-c89a-6d86-f1ea-7220614691d9",
+          "b": ""
+        },
+        "objGuid": "Guid(5679664345784562523, 5342044784973473413)",
+        "extraType": "Camera",
+        "name": "Camera",
+        "rttiType": "Camera",
+        "version": "0.2.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": false,
+        "editable": true
+      },
+      {
+        "guid": {
+          "a": "1a8d8ae2-c71f-79bc-6155-ca252eba6a77",
+          "b": ""
+        },
+        "objGuid": "Guid(5114027064431791138, 12955452674800423845)",
+        "extraType": "PostProcess",
+        "name": "PostProcess",
+        "rttiType": "JSScriptComponent",
+        "version": "0.1.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": true,
+        "editable": true,
+        "postProcessList": [
+          13
+        ]
+      }
+    ],
+    "effectNodeType": 7,
+    "dependencyData": []
+  }
+]

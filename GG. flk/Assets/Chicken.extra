@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "0b121121-3de5-6be8-80ce-ed85ea299ca1",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Chicken",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "guid": {
+      "a": "fb9a15b3-7da6-a4c3-ce1d-75580959b2e7",
+      "b": ""
+    },
+    "extraType": "ResItemGraphMaterial",
+    "name": "Punch Hole_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7278212135308492802",
+    "skinObjGuid": "Guid(5040514888646950220, 15614020924090296)",
+    "references": [
+      {
+        "propertyName": "_Custom_Sampler2D",
+        "guid": "e946630c-bf1f-ef13-ad7c-a513f3179359"
+      }
+    ]
+  }
+]
